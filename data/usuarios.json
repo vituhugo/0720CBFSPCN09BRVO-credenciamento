@@ -1,0 +1,8 @@
+{
+    "nome": "Victor Hugo Albuquerque Rodrigues",
+    "sexo": "M",
+    "tipo": ["comprador","vendedor"],
+    "email": "vrodrigues@digitalhouse.com",
+    "senha": "123456"
+
+}
