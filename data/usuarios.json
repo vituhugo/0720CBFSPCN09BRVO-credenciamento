@@ -1,34 +1,3 @@
 [
-    {
-        "nome":"Carol",
-        "email":"carol@digitalhouse.com",
-        "senha":"123456",
-        "tipo":"comprador",
-        "sexo":"F"
-    },{
-        "nome":"Carol",
-        "email":"carol@digitalhouse.com",
-        "senha":"123456",
-        "tipo":"comprador",
-        "sexo":"F"
-    },
-    {
-        "nome":"Carol",
-        "email":"carol@digitalhouse.com",
-        "senha":"123456",
-        "tipo":"comprador",
-        "sexo":"F"
-    },{
-        "nome":"Vini",
-        "email":"vini@digitalhouse.com",
-        "senha":"123456",
-        "tipo":"vendedor",
-        "sexo":"M"
-    },{
-        "nome":"Marcelo Shitakubo",
-        "email":"marcelo@shitakubo.com",
-        "senha":"$2b$10$shXlF8G75GCbsqbecbFPF.kijPN6POWcFD.l.a2/mmmlEAei24Q5.",
-        "tipo":"comprador",
-        "sexo":"F"
-    }
+    
 ]
