@@ -23,3 +23,9 @@ Não é necessário salvar a imagem inteira no arquivo json, isso causaria uma b
 ## exercício 4
 Criar rota que recebe os dados do formulário de login.
 
+Comparar email arquivo json, encontrar o registro o email, ou devolver mensagem "Usuário não existe"
+
+Valida o email pelo Hash, com o compare do bcrypt
+
+se passar redireciona pra home, caso contrário usuário n existe.
+
