@@ -8,6 +8,7 @@ module.exports = {
     cadastro: function(req, res, next) {
         res.render('usuario/cadastro');
     },
+    
     guardar: function(req, res, next) {
         // bcrypt.hash("123456", 10, function(err, hash) {})
         // resultado: $%@%@MR@$J@$$J%@$RKFMKM#$K!M!M#!L$%@%@MR@$J@$$J%@$RKFMKM#$K!M!M#!L

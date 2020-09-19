@@ -19,3 +19,7 @@ Vamos dificultar um pouco as coisas... Que tal a gente subir uma imagem de avata
 Para isso precisaremos usar um input do tipo file e guardar a imagem no servidor com a ajuda do fileSystem(fs).
 
 Não é necessário salvar a imagem inteira no arquivo json, isso causaria uma bagunça! Ao invés disso, vamos salvar ela em uma pasta "imagens" dentro de public e armazenaremos no arquivo JSON apenas o caminho dela! Dessa forma ele ficará limpo e muito mais charmoso.
+
+## exercício 4
+Criar rota que recebe os dados do formulário de login.
+
